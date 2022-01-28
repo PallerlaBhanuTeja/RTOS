@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <freertos/FreeRTOS.h>
 #include <freertos/task.h>
@@ -54,3 +53,17 @@ void app_main()
         printf("Alarmtask created\n");
     }
 }
+
+    © 2022 GitHub, Inc.
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+
